@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsher4499" alt="shamsher4499" /></a> </p>
 
-- 🔭 I’m currently working on **Microservices**
+- 🔭 I’m currently working on **Cloud platform**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Microservices**
 
 - 👯 I’m looking to collaborate on **Open-Source project**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://shamsherportfolio.herokuapp.com](https://shamsherportfolio.herokuapp.com)
 
-- 💬 Ask me about **Python, Django, GCP, Jenkins.**
+- 💬 Ask me about **Python, Django, GCP, AWS, Docker, Git.**
 
 - 📫 How to reach me **chauhanshamsher1234@gmail.com**
 
