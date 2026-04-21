@@ -9,13 +9,13 @@
   <a href="mailto:chauhanshamsher1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://shamsherportfolio.herokuapp.com" target="_blank">
+  <a href="https://project-ke3iu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://twitter.com/@chauhanshamshe1" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/shamsher-singh-chauhan" target="_blank">
+  <a href="https://linkedin.com/in/shamsher3611" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=shamsher4499&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
